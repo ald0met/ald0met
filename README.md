@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Blog : https://blog.naver.com/homesw2thome
+https://blog.naver.com/homesw2thome
 
 <!--
 **ald0met/ald0met** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
